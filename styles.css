@@ -1,0 +1,148 @@
+#header{
+    background-color: black;
+    width: 1250px;
+    height: 100px;
+}
+#header-title{
+    background-color: gray;
+    color: black;
+    width:330px;
+    height: 100px;
+    line-height: 100px;
+    margin-left: 120px;
+    text-align: center;
+    font-size: xx-large;            
+    float: left;
+}
+#header-nav{
+    background-color: gray;
+    color: black;
+    width: 700px;
+    height: 100px;
+    line-height: 100px;
+    margin-left: 430px;
+    text-align: center;
+    font-size: larger;        
+    
+}
+#header-nav a{
+    color: black;
+    margin-right: 30px;
+}
+#main{
+    background-color: rgb(32, 76, 105);
+    width: 1250px;
+    height: 750px;
+    position: relative;
+}
+#bsm{
+    color: white;
+    width: 280px;
+    height: 180px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 120px;
+    padding: 20px;
+    border: gray solid 2px;
+    box-shadow: 1px 1px lightslategray;
+    border-radius: 1em;
+    
+}
+#web-design{
+    color: white;
+    width: 280px;
+    height: 180px;
+    margin-left: 15px;
+    margin-top: 40px;
+    float: left;
+    padding: 20px;
+    border: gray solid 2px;
+    box-shadow: 1px 1px lightslategray;
+    border-radius: 1em;
+}
+#salesforce{
+    color: white;
+    width: 280px;
+    height: 180px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 20px;
+    border: gray solid 2px;
+    box-shadow: 1px 1px lightslategray;
+    border-radius: 1em;
+    
+}
+#footer{
+    background-color: black;
+    color: white;
+    width: 1011px;
+    height: 100px;
+    margin-left: 120px;
+    position: absolute;
+    bottom: 0;       
+}
+#info{
+    background-color: lightgrey;
+    width: 1011px;
+    height: 320px;
+    margin-left: 120px;
+    position: absolute;
+    bottom: 100px;
+}
+#left-info{
+    background-color: aliceblue;
+    width: 300px;
+    height: 290px;
+    padding-top: 10px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;   
+    border-radius: 1em;         
+
+}
+#left-info h2{
+    padding-left: 20px;
+}
+#left-info a{
+    color: black;
+    padding-left: 50px;
+    line-height: 25px;
+    font-size: small;
+}
+#right-info{
+    background-color: aliceblue;
+    width: 680px;
+    height: 290px;
+    margin-left: 320px;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 1em;
+}
+#right-info h3{
+    padding-left: 20px;
+}
+#right-info p{
+    padding-left: 20px;
+}
+#unordered-bsm {
+    width: 300px;
+    float: left;
+    padding-left: 45px;
+}
+#ordered-bsm {
+    width: 300px;
+    float: left;
+}
+#footer h3{
+    padding-left: 20px;
+}
+#footer img{
+    padding-left: 40px;
+    float: left;
+}
+#footer aside{
+    padding-left: 500px;
+    font-size: smaller;
+    float: left;
+}
